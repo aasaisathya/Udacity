@@ -15,17 +15,18 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using FIFA 18 Complete Player Dataset to better understand:
+The motivation behind the project is to study and understand the soccer players collected in FIFA 18 and analyze which Club or National Team has the best-rated players, co-relate between age and overall rating, nationality, potential, etc. and the results could add value to fantasy premier league enthusiasts. I would like to attempt the following questions to interested
 
-Question 1: Which Nation has most number of Soccer Players collected in FIFA 18, list the top 20 Nations
+1. Which Country has the maximum number of Soccer Players collected in FIFA 18 and List the top 20 countries?
 
-Question 2: How about the age distribution of the FIFA 18 Players?
+2. What is the age distribution of the FIFA 18 Players?
 
-Question 3: Find out the top 10 clubs with highest total player market value, and the highest average player wage
+3. Identify the top 10 clubs with the highest total player market value, and the highest average player wage?
 
-Question 4: Choose the best squad
+4. Identify the best Squad?
 
-Question 5: Correlation between Age, Overall, Potential, Position, Club, Nationality, Special vs Value/Wage
+5. Do Correlation between Age, Overall, Potential, Position, Club, Nationality, Special vs Value/Wage
+
 
 
 ## File Descriptions <a name="files"></a>
@@ -43,8 +44,7 @@ CompleteDataset.csv           - This file is the complete dataset contains a
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@haiqingzhou/fifa-18-complete-player-dataset-some-exploration-questions-2ccae897416a).
+The main findings of the code can be found at the post available [here](https://medium.com/fifa-18-a-data-driven-approach-to-identify-best/fifa-18-applying-simple-ml-algorithm-approach-to-identify-best-quad-d283420e4e12).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-
-Must give credit to Aman Shrivastava & EA Sports for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset). Otherwise, feel free to use the code here as you would like! 
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset).
